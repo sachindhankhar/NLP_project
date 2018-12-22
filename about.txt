@@ -1,2 +1,1 @@
-youtube cooment analysis project which will sort videos according to comment sentiment.
-this will be helpful in saving our time to check every video link and decide which is relevant.  
+Get developer key from the link to use youtube data api->https://console.developers.google.com/apis/
